@@ -1,0 +1,16 @@
+.card-header {
+    background-color:pink;
+   }
+   .container{
+       background: radial-gradient(white, transparent);
+   }
+   body{
+       background: floralwhite;
+   }
+   .team-heading{
+       background-color: pink;
+   }
+   
+   .card {
+       width: 100%;
+   }
