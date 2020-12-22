@@ -1,6 +1,7 @@
 # teamprofilegenerator
 
 ## Deployed Image
+![](images/results.jpg)
 
 ## Table of Contents 
 
@@ -13,10 +14,12 @@
 * [Functionally](#functionally)
 
 ## Demo
-![](images/homework19.gif) 
+![](images/demo.gif) 
+
+The demo isn't able to switch screens, so the image above is the final result. 
 
 ## Description
-An interactive team page generator on the Command Line, made using Node.js and the Inquirer npm package. This program will generate a Bootstrap html page displaying a card for each employee entered. Each card contains summary information, including Name, ID, Email, Role, and one role-specific detail.
+An interactive team page generator on the Command Line, made using Node.js. This app generates an html page displaying empoylees cards. 
 
 ## Installation
 Clone to VS Code. Open a terminal and "npm install". To run the appication type "node app.js". 
